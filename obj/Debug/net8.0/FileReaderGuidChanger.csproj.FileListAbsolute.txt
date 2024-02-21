@@ -1,0 +1,14 @@
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\bin\Debug\net8.0\FileReaderGuidChanger.exe
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\bin\Debug\net8.0\FileReaderGuidChanger.deps.json
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\bin\Debug\net8.0\FileReaderGuidChanger.runtimeconfig.json
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\bin\Debug\net8.0\FileReaderGuidChanger.dll
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\bin\Debug\net8.0\FileReaderGuidChanger.pdb
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\obj\Debug\net8.0\FileReaderGuidChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\obj\Debug\net8.0\FileReaderGuidChanger.AssemblyInfoInputs.cache
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\obj\Debug\net8.0\FileReaderGuidChanger.AssemblyInfo.cs
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\obj\Debug\net8.0\FileReaderGuidChanger.csproj.CoreCompileInputs.cache
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\obj\Debug\net8.0\FileReaderGuidChanger.dll
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\obj\Debug\net8.0\refint\FileReaderGuidChanger.dll
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\obj\Debug\net8.0\FileReaderGuidChanger.pdb
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\obj\Debug\net8.0\FileReaderGuidChanger.genruntimeconfig.cache
+C:\React-CRUD-with-Asp.Net-Core-Web-API\FileReaderGuidChanger\FileReaderGuidChanger\obj\Debug\net8.0\ref\FileReaderGuidChanger.dll
